@@ -8,9 +8,7 @@
 6.- Escribir un programa que muestre en pantalla el resultado de la siguiente operacion: (3 + 2 / 2 - 5)^2
 7.- Escribir un programa que pregunte al usuario por el numero de horas trabajadas y el pago por hora
     Despues debe mostrar por pantalla la paga que le corresponde
-<<<<<<< HEAD
 8.- Escribir un programa que lea un entero positivo 'n', introducido por el usuario
     y despues demuestre en pantalla la sima de todos los enteros desde 1 hasta la suma
     de los primeros enteros positivos puede ser calculada de la siguiente forma: "suma = n(n + 1)/2"
-=======
->>>>>>> 83aa9203265fb4a34e55e50bbc91fadc4726c7d0
+
