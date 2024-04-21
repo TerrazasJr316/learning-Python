@@ -1,3 +1,4 @@
 1.- Escribir tu nombre completo
 2.- Escribir mi nombre por separado por lineas
 3.- Poner en una variable tu nombre he imprimir el resultado 
+4.- Escribir en 3 variables cada parte de tu nombre e imprimir el resultado
