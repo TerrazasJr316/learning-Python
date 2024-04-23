@@ -2,3 +2,6 @@
 2.- Escribir mi nombre por separado por lineas
 3.- Poner en una variable tu nombre he imprimir el resultado 
 4.- Escribir en 3 variables cada parte de tu nombre e imprimir el resultado
+5.- Escribir  un programa que el nombre del nombre en la consola y despues de
+    que el usuario lo introduzca el nombre por pantalla la cadena "Hola Mundo <nombre>"
+    donde <nombre> que el usuario haya introducido
