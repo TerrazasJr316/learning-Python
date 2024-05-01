@@ -20,3 +20,5 @@
     paquete asi que deben calcular el peso de los payasos y muñecas que saldrán  de cada paquete a demanda.
     Cada payaso pesa 112g y cada muñeca 75g. Escribir un programa que lea el número de payasos y muñecas
     vendidos en el último pedido y calcule el peso total del paquete que será vendido
+11.- Escribir un programa que pregunte el nombre del usuario en la consola y un número entero e imprima
+    por pantalla en líneas distintas el nombre del usuario tantas veces como el numero introducido.
