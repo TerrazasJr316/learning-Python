@@ -29,4 +29,5 @@
 13.- Escribir un programa que pregunte el nombre del usuario en la consola y despúes de el usuario lo
     introduzca muestre en pantalla <NOMBRE> tiene <n> letras, donde <NOMBRE> es el nombre en mayúsculas y
     <n> es el número de letras que tiene el nombre
-
+14.- Escribir un programa que pida al usuario que introduzca una frase en consola y muestre en pantalla
+    la frase invertida
