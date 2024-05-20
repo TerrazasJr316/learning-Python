@@ -10,6 +10,7 @@ Tome un curso de udemy para comprender las funciones del lenguaje y poder aplica
 
 Como introducción hay ficheros abarcando:
 1.- Hola Mundo
+2.- Variables
 
 Soy Ingeniero en Sistemas Computacionales, capaz de desarrollar estructuras de datos, bases de datos, manejo de sistema windows y linux, administración de redes y manejo de telecomunicaciones
 
