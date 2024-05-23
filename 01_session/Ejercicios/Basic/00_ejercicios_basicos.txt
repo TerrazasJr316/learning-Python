@@ -31,3 +31,5 @@
     <n> es el número de letras que tiene el nombre
 14.- Escribir un programa que pida al usuario que introduzca una frase en consola y muestre en pantalla
     la frase invertida
+15.- Escribe un programa que pida al usuario que introduza una frase en consola y una vocal, y despúes
+    muestre por pantalla la misma frase pero con la vocal introducida en mayúscula.
