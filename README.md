@@ -4,6 +4,8 @@
 [![FastAPI](https://img.shields.io/badge/Fastapi-0.88.0%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0%2B-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)](https://www.mongodb.com)
 
+
+
 Bienvenido al repositorio, en el que encontraras un directorio de lógica de programación con ejercicios desarrollados en python, seguido de esto, se encuentra un directorio de sesión donde encontraras desde lo mas básico hasta lo complejo.
 
 Tome un curso de udemy para comprender las funciones del lenguaje y poder aplicarlas a diferentes problematicas.
