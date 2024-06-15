@@ -6,6 +6,8 @@
 
 Bienvenido al repositorio, en el que encontraras un directorio de lógica de programación con ejercicios desarrollados en python, seguido de esto, se encuentra un directorio de sesión donde encontraras desde lo mas básico hasta lo complejo.
 
+Tome un curso de udemy para comprender las funciones del lenguaje y poder aplicarlas a diferentes problematicas.
+
 Soy Ingeniero en Sistemas Computacionales, capaz de desarrollar estructuras de datos, bases de datos, manejo de sistema windows y linux
 
 ## Preguntas frecuentes:
