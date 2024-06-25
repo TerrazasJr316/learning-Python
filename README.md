@@ -13,7 +13,7 @@ Como introducción hay ficheros abarcando:
 2.- Variables
 3.- Cadenas de texto (String)
 
-Soy Ingeniero en Sistemas Computacionales, capaz de desarrollar estructuras de datos, bases de datos, manejo de sistema windows y linux, administración de redes y manejo de telecomunicaciones
+Soy Ingeniero en Sistemas Computacionales, capaz de desarrollar estructuras de datos, bases de datos, manejo de sistema windows y linux, administración de redes y manejo de telecomunicaciones,
 
 ## Preguntas frecuentes:
 
