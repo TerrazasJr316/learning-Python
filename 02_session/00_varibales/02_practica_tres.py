@@ -1,6 +1,6 @@
-#Escribir  un programa que el nombre del nombre en la consola y despues de que el usuario lo introduzca el nombre
-#por pantalla la cadena "Hola Mundo <nombre>" donde <nombre> que el usuario haya introducido
+a = 30
+b = 20
+a = a + (20 - 5) * (a + a)
+suma = a + b
 
-nom = input ("Dame tu nombre: ")
-
-print ("Hola " + nom + " Bienvenido")
+print("El resultado es: " + str(a))

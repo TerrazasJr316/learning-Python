@@ -1,9 +1,6 @@
-#Escribir un programa que pregunte al usuario por el numero de horas trabajadas y el pago por hora
-#Despues debe mostrar por pantalla la paga que le corresponde 
+#Escribir  un programa que el nombre del nombre en la consola y despues de que el usuario lo introduzca el nombre
+#por pantalla la cadena "Hola Mundo <nombre>" donde <nombre> que el usuario haya introducido
 
-nom = input("Dame tu nombre: ")
-horas = float(input("Cuantas horas trabajaste: "))
-pago = float(input("Cuanto te pagan por hora: "))
-total = horas * pago
+nom = input ("Dame tu nombre: ")
 
-print ("Saludos " + nom + "tu pago es de " + str (total))
+print ("Hola " + nom + " Bienvenido")
