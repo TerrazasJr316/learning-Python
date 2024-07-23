@@ -8,4 +8,3 @@ if edad >= 18:
     print("Estas dentro!")
 else:
     print("No tienes la mayoria de edad")
-    
