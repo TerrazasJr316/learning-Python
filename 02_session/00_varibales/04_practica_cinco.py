@@ -1,6 +1,12 @@
-#Escribir  un programa que el nombre del nombre en la consola y despues de que el usuario lo introduzca el nombre
-#por pantalla la cadena "Hola Mundo <nombre>" donde <nombre> que el usuario haya introducido
+#1.- Escribir tu nombre completo
+#2.- Escribir mi nombre por separado por lineas
+#3.- Poner en una variable tu nombre he imprimir el resultado 
 
-nom = input ("Dame tu nombre: ")
+nom_completo = "Josue Terrazas Mendoza" #esta es una variable de tipo String, punto 1 y 3
+print (nom_completo)
 
-print ("Hola " + nom + " Bienvenido")
+nom = "Josue"
+ap = "Terrazas"
+am = "Mendoza"
+
+print (nom + "-" + ap + "-" + am) #punto 

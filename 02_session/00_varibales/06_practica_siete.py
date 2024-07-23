@@ -1,9 +1,5 @@
-#Escribir un programa que pregunte al usuario por el numero de horas trabajadas y el pago por hora
-#Despues debe mostrar por pantalla la paga que le corresponde 
+#Escribir un programa que muestre en pantalla el resultado de la siguiente operacion: (3 + 2 / 2 - 5)^2
 
-nom = input("Dame tu nombre: ")
-horas = float(input("Cuantas horas trabajaste: "))
-pago = float(input("Cuanto te pagan por hora: "))
-total = horas * pago
+r = ((3 + 2) / ( 2 - 5) **2)
 
-print ("Saludos " + nom + "tu pago es de " + str (total))
+print("El resultado es: " + str(r))
