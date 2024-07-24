@@ -13,4 +13,7 @@ estatura = float(input("Dame tu estatura en m: "))
 
 imc= (peso /(estatura)**2)
 
+# Forma de rodondear
+imc = round(imc, 2)
+
 print("Tu índice de masa corporañ es: ", str(imc))
