@@ -8,3 +8,6 @@
  redondeado con dos decimales.
 """
 
+peso = float(input("Dame tu peso en Kg: "))
+estatura = float(input("Dame tu estatura en m: "))
+
