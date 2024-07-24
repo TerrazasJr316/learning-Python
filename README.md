@@ -1,6 +1,11 @@
 # Aprendiendo Python
 
+
+
 Bienvenido al repositorio, en el que encontraras 2 directorios de lógica de progrmación desarrollados en python, seguido de esto, se encuentra un directorio de seción donde encontraras desde lo mas básico hasta lo complejo.
+
+## Preguntas frecuentes:
+
 
 ## Encuéntrame en:
 
