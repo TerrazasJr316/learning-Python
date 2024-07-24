@@ -1,5 +1,7 @@
 # Aprendiendo Python
 
+Bienvenido al repositorio, en el que encontraras 2 directorios de lógica de progrmación desarrollados en python, seguido de esto, se encuentra un directorio de seción donde encontraras desde lo mas básico hasta lo complejo.
+
 ## Encuéntrame en:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
