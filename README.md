@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
-Bienvenido al repositorio, en el que encontraras 2 directorios de lógica de programación desarrollados en python, seguido de esto, se encuentra un directorio de seción donde encontraras desde lo mas básico hasta lo complejo.
+Bienvenido al repositorio, en el que encontraras 2 directorios de lógica de programación desarrollados en python, seguido de esto, se encuentra un directorio de sesión donde encontraras desde lo mas básico hasta lo complejo.
 
 ## Preguntas frecuentes:
 
