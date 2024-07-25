@@ -1,6 +1,7 @@
-# 4.- Escribir  un programa que el nombre del nombre en la consola y despues de que el usuario lo introduzca el nombre
-#por pantalla la cadena "Hola Mundo <nombre>" donde <nombre> que el usuario haya introducido
+# 2.- Escribir mi nombre por separado por lineas
 
-nom = input ("Dame tu nombre: ")
+nom = "Josue"
+ap = "Terrazas"
+am = "Mendoza"
 
-print ("Hola " + nom + " Bienvenido")
+print (nom + "-" + ap + "-" + am)
