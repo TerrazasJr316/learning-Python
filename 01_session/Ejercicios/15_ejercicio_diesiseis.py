@@ -1,9 +1,13 @@
 """
-15.- Escribe un programa que pida al usuario que introduza una frase en consola y una vocal, y despúes
-muestre por pantalla la misma frase pero con la vocal introducida en mayúscula.
+15.- Escribe un programa que pregunte al usuario la fecha de su nacimiento en  formato dd/mm/aaaa y
+muestra por pantalla, el día, el mes y el año.
 """
 
-frase = input("Dame la frase: ")
-vocal = input("Introduce una vocal en minúsculas: ")
+fecha = input("Introduce la fecha con el formato dd/mm/aaaa: ")
+dia = fecha[:2]
+mes = fecha[3:5]
+anio = fecha[6:]
 
-print(frase.replace(vocal, vocal.upper()))
+print("El día es: ", dia)
+print("El mes es: ", mes)
+print("El año es: ", anio)
