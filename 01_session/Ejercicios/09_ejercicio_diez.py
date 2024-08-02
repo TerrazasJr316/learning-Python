@@ -1,5 +1,5 @@
 """
-Una jugetería tiene mucho exito  en dos de sus productos:
+10.- Una jugetería tiene mucho exito  en dos de sus productos:
 payasos y muñecas. Suele haber venta por correo y la empresa de logística les cobra por peso de cada
 paquete asi que deben calcular el peso de los payasos y muñecas que saldrán  de cada paquete a demanda.
 Cada payaso pesa 112g y cada muñeca 75g. Escribir un programa que lea el número de payasos y muñecas
