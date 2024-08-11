@@ -1,5 +1,7 @@
-#Escribir un programa que pregunte al usuario por el numero de horas trabajadas y el pago por hora
-#Despues debe mostrar por pantalla la paga que le corresponde 
+"""
+7.-Escribir un programa que pregunte al usuario por el numero de horas trabajadas y el pago por hora
+Despues debe mostrar por pantalla la paga que le corresponde 
+"""
 
 nom = input("Dame tu nombre: ")
 horas = float(input("Cuantas horas trabajaste: "))
