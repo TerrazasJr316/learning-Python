@@ -1,5 +1,5 @@
 """
-15.- Escribe un programa que pregunte al usuario la fecha de su nacimiento en  formato dd/mm/aaaa y
+16.- Escribe un programa que pregunte al usuario la fecha de su nacimiento en  formato dd/mm/aaaa y
 muestra por pantalla, el día, el mes y el año.
 """
 
