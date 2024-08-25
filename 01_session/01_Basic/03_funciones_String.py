@@ -36,3 +36,16 @@ dato = "Chevrolet"
 dato = dato.center(30)
 
 print(dato)
+
+# Count
+
+"""
+Permite contar el numero de palabras
+que se solicite dentro de una cedana
+de texto
+"""
+
+mensaje = "Las manzanas son rojas, las manzanas son mi fruta favorita y las manzanas verdes es la que mas me gusta"
+message = mensaje.count("manzanas")
+
+print("Existe la palabra manzanas: " + str(message))
