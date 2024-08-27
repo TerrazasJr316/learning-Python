@@ -77,5 +77,3 @@ print("Numero 2 " + str (num2))
 # funcion f
 print(f"Numbre {nom} Apellido {ap} Numero1 = {num1} Numero2 = {num2}")
 print(f"Suma es igual {num1} + {num2} = {num1 + num2}")
-
-
