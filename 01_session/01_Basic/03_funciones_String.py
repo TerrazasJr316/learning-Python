@@ -53,3 +53,7 @@ mensaje = "Las manzanas son rojas, las manzanas son mi fruta favorita y las manz
 message = mensaje.count("manzanas")
 
 print("Existe la palabra manzanas: " + str(message))
+
+message = mensaje.count("manzanas", 0, 20)
+
+print("Existe la palabra manzanas: " + str(message))
