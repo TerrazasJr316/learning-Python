@@ -185,3 +185,15 @@ example_lower = "Bienvenido a Python un Lenjuage de ALTO NIVEL"
 result_lower = example_lower.lower()
 
 print(result_lower)
+
+# lstrip
+
+"""
+recorre el espacio del lado
+izquierdo
+"""
+
+example_lstrip = "Python"
+result_lstrip = example_lstrip.lstrip()
+
+print("Bienvenido a " + example_lstrip + " lenguaje de alto nivel")
