@@ -112,4 +112,15 @@ de los datos sea alfanumericos.
 nombre = "Josue13?"
 muestra = nombre.isalnum()
 
-print(muestra)
+#isalpha
+
+"""
+hace la valdación si el dato
+esta entre el intervalo de la
+"a" a la "z".
+"""
+
+cliente =  "Josue"
+impresion = cliente.isalpha()
+
+print(impresion)
