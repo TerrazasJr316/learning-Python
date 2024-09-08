@@ -101,3 +101,15 @@ print(txt)
 txt1 = "Mi nombre es {0} y mi edad es de {1}".format("Josué", 21)
 
 print(txt1)
+
+# isalnum
+
+"""
+Funcion para hacer la validación
+de los datos sea alfanumericos.
+"""
+
+nombre = "Josue13?"
+muestra = nombre.isalnum()
+
+print(muestra)
