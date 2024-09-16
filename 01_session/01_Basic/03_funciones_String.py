@@ -213,3 +213,5 @@ result_two_maketrans = example_maketrans.maketrans(example_num, example_num_chan
 print(example_maketrans.translate(result_maketrans))
 
 # partition
+
+
