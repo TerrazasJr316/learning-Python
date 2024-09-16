@@ -211,3 +211,5 @@ example_num_change = "    "
 result_two_maketrans = example_maketrans.maketrans(example_num, example_num_change)
 
 print(example_maketrans.translate(result_maketrans))
+
+# partition
