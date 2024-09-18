@@ -225,3 +225,10 @@ example_raplace = "Este es un mensaje programado en PHP"
 result_replace = example_raplace.replace("PHP", "Python")
 
 print(result_replace)
+
+# split
+
+example_split = "Este es un mensaje programado en Python"
+result_split = example_split.split()
+
+print(result_split)
