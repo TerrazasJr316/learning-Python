@@ -243,6 +243,14 @@ print(result_splitlines)
 # strip
 
 example_strip = "Este es un manesaje programado en Python"
-result_strip = example_lstrip.strip()
+result_strip = example_strip.strip()
 
 print("Bienvenido. " + example_strip)
+
+# swapcase
+
+example_swapcase = "Este es un manesaje programado en Python"
+result_swapcase = example_swapcase.swapcase()
+
+print(result_swapcase)
+
