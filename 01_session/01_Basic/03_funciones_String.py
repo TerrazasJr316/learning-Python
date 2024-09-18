@@ -218,3 +218,10 @@ example_partition = "Bienvenido, este mensaje esta hecho en Python"
 result_partition = example_partition.partition("este")
 
 print(result_partition)
+
+# replace
+
+example_raplace = "Este es un mensaje programado en PHP"
+result_replace = example_raplace.replace("PHP", "Python")
+
+print(result_replace)
