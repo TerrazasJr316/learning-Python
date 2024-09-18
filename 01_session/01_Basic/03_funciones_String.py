@@ -267,3 +267,13 @@ example_uper = "Este es un manesaje programado en Python"
 result_uper = example_uper.upper()
 
 print(result_uper)
+
+"""
+Este es un texto comentado en
+Python en varias lineas.
+"""
+
+'''
+Este es otro ejemplo de texto
+comentado en Python en varias lineas
+'''
