@@ -239,3 +239,10 @@ example_splitlines = "Este es un mensaje \n programado en Python"
 result_splitlines = example_splitlines.splitlines()
 
 print(result_splitlines)
+
+# strip
+
+example_strip = "Este es un manesaje programado en Python"
+result_strip = example_lstrip.strip()
+
+print("Bienvenido. " + example_strip)
