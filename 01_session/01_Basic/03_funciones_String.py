@@ -260,3 +260,10 @@ example_title = "Este es un manesaje programado en Python"
 result_title = example_title.title()
 
 print(result_title)
+
+# uper
+
+example_uper = "Este es un manesaje programado en Python"
+result_uper = example_uper.upper()
+
+print(result_uper)
