@@ -232,3 +232,10 @@ example_split = "Este es un mensaje programado en Python"
 result_split = example_split.split()
 
 print(result_split)
+
+# splitlines
+
+example_splitlines = "Este es un mensaje \n programado en Python"
+result_splitlines = example_splitlines.splitlines()
+
+print(result_splitlines)
