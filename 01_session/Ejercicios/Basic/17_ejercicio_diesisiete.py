@@ -6,3 +6,12 @@ print(text[0:5])
 
 print(text[:4])
 print(text[6:])
+
+message = "Bienvenido a Python"
+
+result = message.upper()
+result = message.lower()
+result = message.strip()
+result = message.replace("Python", "PHP")
+
+print(result)
