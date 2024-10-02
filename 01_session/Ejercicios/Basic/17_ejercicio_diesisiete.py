@@ -15,3 +15,11 @@ result = message.strip()
 result = message.replace("Python", "PHP")
 
 print(result)
+
+out = "Esto es un texto en \"Python\""
+
+print(out)
+
+out_dos = "\tEsto tiene un espacion al inicio tab\n\tEsto es otra linea\n\t\t\t\rEsta es la tercera linea pero sin tab"
+
+print(out_dos)
