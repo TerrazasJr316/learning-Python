@@ -9,3 +9,4 @@ pago = float(input("Cuanto te pagan por hora: "))
 total = horas * pago
 
 print ("Saludos " + nom + "tu pago es de " + str (total))
+
