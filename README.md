@@ -12,6 +12,7 @@ Como introducción hay ficheros abarcando:
 * Hola Mundo 
 * Variables
 * Cadenas de texto (String)
+* Jupyter Notebook
 
 Soy Ingeniero en Sistemas Computacionales, capaz de desarrollar estructuras de datos, bases de datos, manejo de sistema windows y linux, administración de redes y manejo de telecomunicaciones,
 
