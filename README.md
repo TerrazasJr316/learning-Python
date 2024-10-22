@@ -9,7 +9,7 @@ Bienvenido al repositorio, en el que encontraras un directorio de lógica de pro
 Tome un curso de udemy para comprender las funciones del lenguaje y poder aplicarlas a diferentes problematicas.
 
 Como introducción hay ficheros abarcando:
-* Hola Mundo 
+* Hola Mundo
 * Variables
 * Cadenas de texto (String)
 * Jupyter Notebook
