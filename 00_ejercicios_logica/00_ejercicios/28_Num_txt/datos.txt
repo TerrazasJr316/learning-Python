@@ -1,1 +1,0 @@
-Bienvenido, el archivo sera contado por el numero de palabras que cotenga por medio de python.
