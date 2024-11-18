@@ -5,3 +5,4 @@ la frase invertida
 
 frase = input("Introduce una frase: ")
 print(frase[::-1]) #empieza a contar desde 0
+
