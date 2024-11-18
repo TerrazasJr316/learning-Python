@@ -11,4 +11,3 @@ anio = fecha[6:]
 print("El día es: ", dia)
 print("El mes es: ", mes)
 print("El año es: ", anio)
-
